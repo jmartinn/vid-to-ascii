@@ -4,6 +4,9 @@
 # Videos
 *.mp4
 
+# Output file
+exe
+
 # Compiled Object files
 *.slo
 *.lo
