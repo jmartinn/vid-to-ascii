@@ -32,6 +32,9 @@ exe
 *.a
 *.lib
 
+# macOS
+.DS_Store
+
 # Executables
 *.exe
 *.out
